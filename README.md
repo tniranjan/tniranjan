@@ -1,5 +1,4 @@
-### வணக்கம் :wave: 
-
+### வாழி  🤟
 <!--
 **tniranjan/tniranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
